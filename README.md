@@ -3,13 +3,19 @@
 
 My name is Raphael but most people call me Xhamps. 
 
-I'm a Full Stack developer and I've been working with technology for over 15 years. I have professional experience in several languages, both as a front end and as a backend, but today I'm mainly working with Nodej, Python, and React. And in my free time I love trying new languages and technologies.
+I'm a Full Stack developer and I've been working with technology for over 15 years. I have professional experience in several languages, both as a front end and as a backend. And in my free time I love trying new languages and technologies and read a great book.
 
 
-##
+## Techs I'm working with at the moment
 
-![Xhamps's github stats](https://github-readme-stats.vercel.app/api?username=xhamps&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhamps&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)
+➤ Node.js 
+➤ Python
+➤ React.js  
+➤ TypeScript  
+➤ Functional Programming
+➤ AWS
+
+![Xhamps's github stats](https://github-readme-stats.vercel.app/api?username=xhamps&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhamps&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)
 
  ##
  
