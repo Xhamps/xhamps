@@ -31,7 +31,7 @@ I'm a Full Stack developer and I've been working with technology for over 15 yea
 <p align="center">
   <a href="https://github.com/xhamps/"><img src="https://img.shields.io/github/followers/xhamps?label=Follow&style=social" alt="GitHub followers"/></a>
   <a href="https://www.linkedin.com/in/raphaelparaujo/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelparaujo" alt="Linkedin: xhamps"/></a>
-  <a href="https://xhamps.com/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://xhamps.com/" alt="website"/></a>
+  <a href="http://xhamps.com.br/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://xhamps.com.br/" alt="website"/></a>
   <a href="https://t.me/xhamps"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/xhamps" alt="Telegram"/></a>
   <a href="https://twitter.com/intent/follow?screen_name=xhamps"><img src="https://img.shields.io/twitter/follow/xhamps?label=Twitter" alt="Twitter Follow"/></a>
   <a href="https://www.instagram.com/xhamps"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/xhamps" alt="Instagram: xhamps"/></a>
