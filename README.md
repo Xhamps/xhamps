@@ -8,13 +8,15 @@ I'm a Full Stack developer and I've been working with technology for over 15 yea
 
 ## Techs I'm working with at the moment
 
-➤ Node.js 
-➤ Python
-➤ React.js  
-➤ TypeScript  
-➤ Functional Programming
-➤ AWS
+➤ Node.js <br/>
+➤ Python <br/>
+➤ React.js  <br/>
+➤ TypeScript  <br/>
+➤ Functional Programming<br/>
+➤ AWS<br/>
 
+ ##
+ 
 ![Xhamps's github stats](https://github-readme-stats.vercel.app/api?username=xhamps&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhamps&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)
 
  ##
